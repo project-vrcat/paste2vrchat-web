@@ -1,0 +1,13 @@
+sider:
+  help: ヘルプ
+button:
+  paste2vrchat: VRChatに貼り付ける
+paste:
+  add-button: テーブルに追加
+  paste-placeholder: テキストを入力してください
+  note-placeholder: メモを入力してください
+  table:
+    content: コンテンツ
+    note: 述べる
+    action: 操作する
+  auto-remove: 自動削除

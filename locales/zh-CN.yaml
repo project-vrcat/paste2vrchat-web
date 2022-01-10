@@ -1,0 +1,13 @@
+sider:
+  help: 帮助
+button:
+  paste2vrchat: 粘贴到VRChat
+paste:
+  add-button: 添加到表格
+  paste-placeholder: 请输入文本
+  note-placeholder: 请输入备注
+  table:
+    content: 内容
+    note: 备注
+    action: 操作
+  auto-remove: 自动移除

@@ -1,0 +1,13 @@
+sider:
+  help: Help
+button:
+  paste2vrchat: Paste to VRChat
+paste:
+  add-button: Add to table
+  paste-placeholder: Please enter text
+  note-placeholder: Please enter note
+  table:
+    content: Content
+    note: Note
+    action: Action
+  auto-remove: Auto remove
