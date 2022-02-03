@@ -135,7 +135,7 @@ watch(autoRemove, () => {
 });
 
 const pasteText = (text: string) =>
-  window.open(`p2vrc://paste?text=${encodeURIComponent(text)}`);
+  window.open(`p2vrc://paste?text=${encodeURIComponent(text)}&enter=true`);
 
 const paste2vrchat = ref((value: string) => pasteText(value));
 const addData = ref(() => {
